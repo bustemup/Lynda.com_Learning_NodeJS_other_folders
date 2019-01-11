@@ -1,0 +1,24 @@
+{
+  "name": "what_is_the_packagejson",
+  "version": "1.0.0",
+  "description": "The coolest package.json that ever existed",
+  "main": "demo.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bustemup/What_is_the_packageJSON.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Ryan Blais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bustemup/What_is_the_packageJSON/issues"
+  },
+  "homepage": "https://github.com/bustemup/What_is_the_packageJSON#readme"
+}
